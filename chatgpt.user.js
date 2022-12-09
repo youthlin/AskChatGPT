@@ -14,7 +14,7 @@
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
 // @grant        GM_xmlhttpRequest
-// @downloadURL  https://github.com/youthlin/AskChatGPT/raw/master/chatgpt.user.js
+// @downloadURL  https://github.com/youthlin/AskChatGPT/raw/main/chatgpt.user.js
 // ==/UserScript==
 (function () {
     'use strict';
